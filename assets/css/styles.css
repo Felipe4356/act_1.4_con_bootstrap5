@@ -1,0 +1,110 @@
+.imagen{
+    width: 170px;
+    border-radius: 10px;
+    border-color: darkgrey;
+
+}
+.imagen2{
+    width: 300px;
+    
+    border-color: darkgrey;
+    padding: 1px;
+
+}
+
+.link{
+color: dimgray;
+text-decoration: none;
+}
+
+.icono1{
+    /* para agarndar los iconos */
+ font-size:20px ;
+
+
+}
+
+.barra{
+background-color: blueviolet;
+}
+
+.barra-menu{
+    z-index: 2;
+ background-color: transparent !important;
+}
+
+
+h4{
+font-size: 12px;
+/* inline sirve para que no comienze en una nueva linia de texto */
+display: inline; 
+}
+.carru{
+    top:-60px;
+    z-index: 1;
+    
+    
+    
+
+}
+
+
+.foto1{
+    top: -60px;
+    z-index: 1;
+
+    
+
+}
+
+
+
+
+.text_titulo{
+    
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: azure;
+        font-size: 90px; /* Tamaño del texto */
+        font-weight: bold; /* Peso de la fuente */
+    
+
+}
+
+.text-inicio{
+ color: aliceblue;
+}
+
+.des_perro{
+    padding-top: 50px;
+    
+    
+    
+ 
+}
+
+.col1{
+padding: 100px;
+}
+
+.colum-text{
+    padding: 87px; 
+    /* de esta forma se puede agrandar */
+
+}
+
+.textcolm{
+color: blueviolet;
+}
+
+.contacto{
+ padding: 50px 150px;
+}
+
+.text_abajo{
+    padding: 50px 150px;
+
+    background-color: blueviolet;
+}
